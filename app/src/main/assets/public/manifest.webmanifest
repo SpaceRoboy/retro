@@ -1,0 +1,11 @@
+{
+  "name": "ClimbSketch — blocs d'escalade sur photo",
+  "short_name": "ClimbSketch",
+  "description": "Crée et exporte tes blocs d'escalade sur photo.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#151719",
+  "theme_color": "#151719",
+  "icons": []
+}
